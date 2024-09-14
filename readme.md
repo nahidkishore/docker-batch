@@ -1,5 +1,5 @@
 
-# docker.io installations 
+# docker.io installations commands
 ```
 sudo apt-get update
 sudo apt-get install docker.io -y
